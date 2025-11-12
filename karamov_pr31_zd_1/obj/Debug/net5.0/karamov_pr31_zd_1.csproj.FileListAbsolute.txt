@@ -1,0 +1,16 @@
+C:\karamov_pr31\karamov_pr31_zd_1\bin\Debug\net5.0\karamov_pr31_zd_1.exe
+C:\karamov_pr31\karamov_pr31_zd_1\bin\Debug\net5.0\karamov_pr31_zd_1.deps.json
+C:\karamov_pr31\karamov_pr31_zd_1\bin\Debug\net5.0\karamov_pr31_zd_1.runtimeconfig.json
+C:\karamov_pr31\karamov_pr31_zd_1\bin\Debug\net5.0\karamov_pr31_zd_1.runtimeconfig.dev.json
+C:\karamov_pr31\karamov_pr31_zd_1\bin\Debug\net5.0\karamov_pr31_zd_1.dll
+C:\karamov_pr31\karamov_pr31_zd_1\bin\Debug\net5.0\ref\karamov_pr31_zd_1.dll
+C:\karamov_pr31\karamov_pr31_zd_1\bin\Debug\net5.0\karamov_pr31_zd_1.pdb
+C:\karamov_pr31\karamov_pr31_zd_1\obj\Debug\net5.0\karamov_pr31_zd_1.csproj.AssemblyReference.cache
+C:\karamov_pr31\karamov_pr31_zd_1\obj\Debug\net5.0\karamov_pr31_zd_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\karamov_pr31\karamov_pr31_zd_1\obj\Debug\net5.0\karamov_pr31_zd_1.AssemblyInfoInputs.cache
+C:\karamov_pr31\karamov_pr31_zd_1\obj\Debug\net5.0\karamov_pr31_zd_1.AssemblyInfo.cs
+C:\karamov_pr31\karamov_pr31_zd_1\obj\Debug\net5.0\karamov_pr31_zd_1.csproj.CoreCompileInputs.cache
+C:\karamov_pr31\karamov_pr31_zd_1\obj\Debug\net5.0\karamov_pr31_zd_1.dll
+C:\karamov_pr31\karamov_pr31_zd_1\obj\Debug\net5.0\ref\karamov_pr31_zd_1.dll
+C:\karamov_pr31\karamov_pr31_zd_1\obj\Debug\net5.0\karamov_pr31_zd_1.pdb
+C:\karamov_pr31\karamov_pr31_zd_1\obj\Debug\net5.0\karamov_pr31_zd_1.genruntimeconfig.cache
